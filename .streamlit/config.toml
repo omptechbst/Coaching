@@ -1,0 +1,20 @@
+[theme]
+base = "dark"
+primaryColor = "#1e1e1e"
+backgroundColor = "#1e1e1e"
+secondaryBackgroundColor = "#2c2c2c"
+textColor = "white"
+font = "sans serif"
+
+[server]
+enableXsrfProtection = false
+enableCORS = false
+headless = true
+port = 8501
+
+[client]
+showSidebarNavigation = false
+
+[ui]
+hideTopBar = true
+hideToolbar = true
